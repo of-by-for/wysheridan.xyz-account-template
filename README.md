@@ -3,7 +3,7 @@ Template for individual input or collaborative endevours
 
 ## Repo naming convention
 
-### Main repo with same name as GitHub account
+### Main repo with username
 The intended use for this repo is your personal input. 
 Eventually there will be more options, yet, for now, 
 the options will be limited.
